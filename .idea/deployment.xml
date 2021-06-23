@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zz@172.16.2.40" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="42">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/hed-pretrained" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zz@172.16.2.39:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zz@172.16.2.40">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/hed" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
